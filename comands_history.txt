@@ -1,0 +1,249 @@
+    1  exit
+    2  ls
+    3  ẃd
+    4  pwd
+    5  sudo apt upgrade -y && apt upgrade -y
+    6  sudo apt upgrade
+    7  sudo apt update
+    8  sudo apt upgrade
+    9  pass
+   10  sudo apt-get install fonts-powerline\n
+   11  sudo apt autoremove
+   12  sudo apt-get install fonts-powerline\n
+   13  exec $SHELL
+   14  git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt"\n
+   15  ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"\n
+   16  nano ~/.zshrc
+   17  exec $SHELL
+   18  exit
+   19  zsh --version
+   20  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git\n
+   21  echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc\n
+   22  source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+   23  ls
+   24  pwd
+   25  ls
+   26  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions\n
+   27  nano ~/.zshrc
+   28  exec $SHEÑÑ
+   29  exec $SHELL
+   30  ls
+   31  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | zsh
+   32  nano ~/.zshrc
+   33  exec $SHELL
+   34  nvm ls-remote
+   35  nvm install 8.12.0
+   36  git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+   37  cd ~/.rbenv && src/configure && make -C src
+   38  sudo apt install gcc
+   39  sudo apt install build-essential
+   40  sudo sed -i '/cdrom/d' /etc/apt/sources.list
+   41  sudo apt install build-essential
+   42  cd ~/.rbenv && src/configure && make -C src
+   43  echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+   44  exec $SHELL
+   45  ~/.rbenv/bin/rbenv init
+   46  nano ~/.zshrc
+   47  exec $SHELL
+   48  rbenv
+   49  rbenv versions --remote
+   50  rbenv versions --help
+   51  rbenv versions}
+   52  rbenv versions
+   53  sudo apt-get install pass
+   54  gpg --import ~/Downloads/private.key
+   55  pass git pull origin master
+   56  pass git remote add https://github.com/fhereduardo90/pass-store.git
+   57  pass git remote add origin https://github.com/fhereduardo90/pass-store.git
+   58  pass git init
+   59  pass init
+   60  gpg 
+   61  gpg --help
+   62  gpg  --list-keys
+   63  pass init C1A03D813D71D9D3D1CFFA3CCA50BC49E26156AC
+   64  pass git remote add origin https://github.com/fhereduardo90/pass-store.git
+   65  pass git init
+   66  pass git remote add origin https://github.com/fhereduardo90/pass-store.git
+   67  pass git pull origin master
+   68  pass git remote remove origin
+   69  pass git remote add origin git@github.com:fhereduardo90/pass-store.git
+   70  pass git pull origin master
+   71  pass list
+   72  pass git remote add origin git@github.com:fhereduardo90/pass-store.git
+   73  git pull origin master
+   74  ssh-keygen -t rsa -b 4096 -C "fhereduardo90@gmail.com"\n
+   75  cat ~/.ssh/id_rsa.pub
+   76  gpg --list-secret-keys --keyid-format LONG\n
+   77  pass git pull origin master
+   78  cat ~/.password-store/.git/config
+   79  nano ~/.ssh/config
+   80  pass git remove origin
+   81  pass git remove remote origin
+   82  pass git rm remote origin
+   83  pass git remote rm origin}
+   84  pass git remote rm origin
+   85  pass git remote add origin git@personal.github.com:fhereduardo90/pass-store.git
+   86  pass git pull origin master
+   87  pass git diff .
+   88  pass git status
+   89  pass diff .gitattributes
+   90  pass diff .gpg-id
+   91  pass git diff .
+   92  rm -rf ~/.password-store/.gitattributes
+   93  rm -rf ~/.password-store/.gpg-id
+   94  pass git pull origin master
+   95  pass git pull origin master --force
+   96  pass git status
+   97  pass git rm -rf .gitattributes
+   98  pass git rm -rf .gpg-id
+   99  pass git pull origin master --force
+  100  pass git pull origin master
+  101  pass list
+  102  cat ~/.password-store/.gpg-id
+  103  pass -c Email/fhereduardo90@gmail.com
+  104  sudo apt update
+  105  sudo apt upgrade
+  106  sudo apt dist-upgrade
+  107  sudo apt autoremove
+  108  apt --help
+  109  sudo apt full-upgrade
+  110  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 931FF8E79F0876134EDDBDCCA87FF9DF48BF1C90\n
+  111  echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sources.list.d/spotify.list\n
+  112  sudo apt-get update\n
+  113  sudo apt update\n
+  114  sudo apt install spotify-client\n
+  115  sudo lshw
+  116  git init
+  117  git
+  118  git init
+  119  ssh-keygen 
+  120  git init
+  121  dir .git
+  122  ssh-keygen
+  123  dir .git
+  124  git init
+  125  dir .git
+  126  git config user.mail
+  127  git config user.email
+  128  git config --global user.email
+  129  clear
+  130  nano a.txt
+  131  git add
+  132  git status
+  133  git add a.txt
+  134  git diff a.txt4
+  135  git diff
+  136  git add a.txt
+  137  git diff
+  138  git-diff
+  139  git status
+  140  git diff
+  141  git diff help
+  142  git help 
+  143  git -help 
+  144  git --help 
+  145  git diff -stage
+  146  git diff -staged
+  147  git diff --staged
+  148  gws
+  149  glg
+  150  git commit a.txt
+  151  clear
+  152  git config"
+  153  git config --system
+  154  git reset
+  155  ls
+  156  git exit
+  157  exit
+  158  git
+  159  clear
+  160  ls
+  161  pwd
+  162  ls -a
+  163  remove .git
+  164  rm .git
+  165  cd .git
+  166  ls
+  167  cd ..
+  168  rm -rf .git
+  169  ls
+  170  ls -a
+  171  clear
+  172  pwd
+  173  clear
+  174  cd prueba2
+  175  pwd
+  176  cd fernando
+  177  cd DEsktop
+  178  cd Escritorio
+  179  cd ..
+  180  pwd
+  181  cd ..
+  182  ls
+  183  cd home
+  184  ls
+  185  cd lost+found
+  186  cd fernando
+  187  ls
+  188  cd Desktop
+  189  ls
+  190  cd prueba2
+  191  ls -a
+  192  cd .git
+  193  ls
+  194  cd branches
+  195  ls
+  196  cd ..
+  197  ls -a  branches
+  198  ls -a  config
+  199  ls -a infp
+  200  ls -a info
+  201  ls
+  202  ls -a objects
+  203  nano config config
+  204  nano HEAD
+  205  nano description
+  206  nano index
+  207  ls -a hooks
+  208  nano hooks update.sample
+  209  ls -a hooks
+  210  ls
+  211  cd ../..
+  212  cd prueba2
+  213  rm .git
+  214  rm -rf  .git
+  215  ls
+  216  git
+  217  git user.mail
+  218  git user.email
+  219  git config global list
+  220  git config --global --list
+  221  cd ../../..
+  222  ls
+  223  cd fernando
+  224  nano .gitconfig
+  225  ls
+  226  git config --global
+  227  git config --global user.email
+  228  pwd
+  229  git config --global user.name "DMSQ" 
+  230  git config --global user.email dmsq2017@outlook.com
+  231  git config --list
+  232  cd prueba2
+  233  2pwd
+  234  pwd
+  235  cd Desktop
+  236  cd prueba2
+  237  ls
+  238  git init
+  239  git checkout
+  240  git branch
+  241  git add a.txt
+  242  nano a.text
+  243  get status
+  244  git status
+  245  cat history > comands_history.txt 
+  246  cat history -na comands_history.txt 
+  247  cat history -na > comands_history.txt 
+  248  cat comands_history.txt history -an
+  249  cat history >  comands_history.txt 
